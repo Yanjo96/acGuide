@@ -1,0 +1,80 @@
+Bitterling;11-12&1-3;0-24;Fluss;winzig;900
+Doebel;1-12;9-16;Fluss;winzig;200
+Karausche;1-12;0-24;Fluss;klein;160
+Hasel;1-12;16-9;Fluss;Mittel;240
+Karpfen;1-12;0-24;Teich;Gross;300
+Koi-Karpfen;1-12;16-9;Teich;Gross;4000
+Goldfisch;1-12;0-24;Teich;winzig;1300
+Teleskopauge;1-12;9-16;Teich;winzig;1300
+Ranchu;1-12;9-16;Teich;klein;4500
+Killifisch;4-8;0-24;Teich;winzig;300
+Flusskrebs;4-9;0-24;Teich;mittel;200
+Weichschildkroete;8-9;16-9;Fluss;mittel;3750
+Schnappschildkroete;4-10;21-4;Fluss;sehr gross;5000
+Kaulquappe;3-7;0-24;Teich;winzig;100
+Frosch;5-8;0-24;Teich;klein;120
+Flussgrundel;1-12;16-9;Fluss;klein;400
+Bachschmerle;3-5;0-24;Fluss;klein;400
+Katzenwels;5-10;16-9;Teich;sehr gross;800
+Schlangenkopf;6-8;9-16;Teich;sehr gross;5500
+Sonnenbarsch;1-12;9-16;Fluss;klein;180
+Flussbarsch;1-3&10-12;0-24;Fluss;mittel;300
+Barsch;1-12;0-24;Fluss;gross;400
+Tilapia;6-10;0-24;Fluss;mittel;800
+Hecht;9-12;0-24;Fluss;sehr gross;1800
+Stint;12-12&1-2;0-24;Fluss;klein;400
+Ayu;7-9;0-24;Fluss;mittel;900
+Masulachs;3-6&9-11;16-9;Wasserfall;mittel;100
+Saibling;3-6&9-11;16-9;Wasserfall;mittel;3800
+Goldforelle;3-5&9-11;16-9;Wasserfall;gross;15000
+Huchen;1-3&12-12;16-9;Wasserfall;riesig;15000
+Lachs;9-9;0-24;Flussmuendung;gross;700
+Koenigslachs;9-9;0-24;Flussmuendung;riesig;1800
+Wollhandkrabbe;9-11;16-9;Fluss;klein;2000
+Guppy;4-11;9-16;Fluss;winzig;1300
+Saugbarbe;5-9;9-16;Fluss;klein;1500
+Skalar;5-10;16-9;Fluss;klein;3000
+Kampffisch;5-10;9-16;Fluss;klein;2500
+Neonsalmler;4-11;9-16;Fluss;winzig;500
+Regenbogenfisch;5-10;9-16;Fluss;klein;800
+Piranha;6-9;9-16&21-4;Fluss;klein;2000
+Arowana;6-9;16-9;Fluss;gross;10000
+Lachssalmler;6-9;4-21;Fluss;sehr gross;15000
+Knochenhecht;6-9;16-9;Teich;riesig;6000
+Arapaima;6-9;16-9;Fluss;sehr gross;10000
+Floesselhecht;6-9;21-4;Fluss;gross;4000
+Stoer;9-12&1-3;0-24;Flussmuendung;riesig;10000
+See-Engel;12-12&1-3;0-24;Meer;winzig;1000
+Seepferdchen;4-11;0-24;Meer;winzig;1100
+Anemonenfisch;4-9;0-24;Meer;winzig;650
+Paletten-Doktorfisch;4-9;0-24;Meer;klein;1000
+Falterfisch;4-9;0-24;Meer;klein;1000
+Napoleonfisch;7-8;4-21;Meer;riesig;1000
+Rotfeuerfisch;4-11;0-24;Meer;mittel;500
+Kugelfisch;11-12&1-2;21-4;Meer;mittel;5000
+Igelfisch;7-9;0-24;Meer;mittel;250
+Sardelle;1-12;4-21;Meer;klein;200
+Makrele;1-12;0-24;Meer;klein;150
+Schnabelbarsch;3-11;0-24;Meer;mittel;5000
+Seebarsch;1-12;0-24;Meer;sehr gross;400
+Kaiserschnapper;1-12;0-24;Meer;mittel;3000
+Kliesche;10-12&1-4;0-24;Meer;mittel;300
+Flunder;1-12;0-24;Meer;gross;800
+Kalmar;12-12&1-8;0-24;Meer;mittel;500
+Muraene;8-10;0-24;Meer;sehr gross (laenglich);2000
+Nasenmuraene;6-10;0-24;Meer;gross (laenglich);600
+Thunfisch;11-12&1-4;0-24;Steg;riesig;7000
+Marlin;11-12&1-4&7-9;0-24;Steg;riesig;10000
+Stachelmakrele;5-10;0-24;Steg;sehr gross;4500
+Goldmakrele;5-10;0-24;Steg;sehr gross;6000
+Mondfisch;7-9;4-21;Meer;riesig (mit Rueckenflosse);4000
+Rochen;8-11;4-21;Meer;sehr gross;3000
+Saegehai;6-9;16-9;Meer;riesig (mit Rueckenflosse);12000
+Hammerhai;6-9;16-9;Meer;riesig (mit Rueckenflosse);8000
+Hai;6-9;16-9;Meer;riesig (mit Rueckenflosse);15000
+Walhai;6-9;0-24;Meer;riesig (mit Rueckenflosse);13000
+Schiffshalter;6-9;0-24;Meer;riesig (mit Rueckenflosse);1500
+Anglerfisch;11-12&1-3;16-9;Meer;sehr gross;2000
+Riemenfisch;12-12&1-5;0-24;Meer;riesig;9000
+Glaskopffisch;1-12;21-4;Meer;klein;15000
+Quastenflosser;1-12;0-24;Meer (bei Regen);riesig;15000

@@ -1,0 +1,80 @@
+Kohlweissling;9-12&1-6;4-19;fliegt umher;160
+Zitronenfalter;3-6&9-10;4-19;fliegt umher;160
+Schwalbenschwanz;3-9;4-19;fliegt umher;240
+Ritterfalter;3-6;4-19;fliegt umher (nahe dunkler Blumen);2500
+Kolibrifalter;4-8;4-19;fliegt umher;300
+Weisse Baumnymphe;1-12;8-19;fliegt umher;1000
+Japan-Schillerfalter;5-8;4-19;fliegt umher;140
+Monarchfalter;9-11;4-17;fliegt umher;140
+Himmelsfalter;12-12&1-3&6-9;17-8;fliegt umher;4000
+Agrias-Falter;4-9;8-17;fliegt umger;3000
+Troides brookiana;4-9&12-12&1-2;8-17;fliegt umher;2500
+Vogelfalter;5-9;8-16;fliegt umher;4000
+Motte;1-12;19-4;bei Lichtern;130
+Atlasspinner;4-9;19-4;an Baeumen;3000
+Regenbogenfalter;4-9;8-16;fliegt umher;2500
+Nasenschrecke;4-11;8-19;Boden;200
+Wanderschrecke;8-11;8-19;Boden;600
+Heuschrecke;8-11;8-19;Boden;400
+Grashuepfer;7-9;8-17;Boden;160
+Grille;9-11;17-8;Boden;130
+Singgrille;9-10;17-8;Boden;430
+Gottesanbeterin;3-11;8-17;Blumen;430
+Orchideenmantis;3-11;8-17;Weisse Blumen;2400
+Honigbiene;3-7;8-17;fliegt umher;200
+Wespe;1-12;0-24;Baeume schuetteln;2500
+Braunzikade;7-8;8-17;an Baeumen;250
+Hyalessa-Zikade;7-8;8-17;an Baeumen;300
+Riesenzikade;7-8;8-17;an Baeumen;500
+Bergzikade;8-9;8-17;an Baeumen;400
+Abendzikade;7-8;4-8,16-19;an Baeumen;550
+Zikadenlarvenhaut;7-8;0-24;an Baeumen;10
+Feuerlibelle;9-10;8-19;fliegt umher;180
+Koenigslibelle;4-10;8-17;fliegt umher;230
+Quelljungfer;5-10;8-17;fliegt umher;4500
+Wasserjungfer;11-12&1-2;0-24;fliegt in der Naehe von Gewaessern;400
+Leuchtkaefer;6-6;19-4;fliegt umher;460
+Maulwurfsgrille;11-12&1-5;0-24;in der Erde;500
+Wasserlaeufer;5-9;8-19;Fluss, auf dem Wasser;130
+Schwimmkaefer;5-9;8-19;Fluss, auf dem Wasser;800
+Riesenwanze;4-9;19-8;Fluss, im Wasser;2000
+Stinkwanze;3-10;0-24;Blumen;120
+Gesichtswanze;3-10;19-8;Blumen;1000
+Marienkaefer;3-6&10-10;8-17;Blumen;200
+Sandlaeufer;2-10;0-24;Boden;1500
+Prachtkaefer;4-8;0-24;Baumstumpf;2400
+Geigenkaefer;5-6&9-11;0-24;Baumstumpf;450
+Fichtenbock;1-12;0-24;Baumstumpf;350
+Alpenbock;5-9;0-24;Baumstumpf;3000
+Blauruesselkaefer;7-8;0-24;an Palmen;800
+Mistkaefer;12-12&1-2;0-24;Boden;300
+Gold-Mistkaefer;7-9;0-24;Boden;300
+Goldskarabaeus;7-8;23-8;an Baeumen;10000
+Japan-Rosenkaefer;6-8;0-24;an Baeumen;200
+Goliathkaefer;6-9;17-8;an Palmen;8000
+Saegezahn-Hirschkaefer;7-8;0-24;an Baumen;2000
+Hirschkaefer;7-8;0-24;an Baeumen;1000
+Riesen-Hirschkaefer;7-8;0-24;an Baeumen;10000
+Pracht-Hirschkaefer;6-9;19-8;an Baeumen;6000
+Cyclommatus;7-8;19-8;an Palmen;8000
+Allotopus Rosenbergi;7-8;17-8;an Palmen;10000
+Giraffenhirschkaefer;7-8;17-8;an Baeumen;12000
+Nashornkaefer;7-8;17-8;an Baeumen;1350
+Atlaskaefer;7-8;17-8;an Palmen;8000
+Elefantenkaefer;7-8;17-8;an Palmen;8000
+Herkuleskaefer;7-8;17-8;an Palmen;12000
+Stabschrecke;7-11;4-8,17-19;Baeume schuetteln;600
+Blattschrecke;7-9;0-24;als Moebelstueck getarnt auf dem Boden;600
+Sacktraeger;1-12;0-24;Baeume schuetteln;600
+Ameise;1-12;0-24;verrottete Ruebe;80
+Einsiedlerkrebs;1-12;19-8;am Strand;1000
+Ligia exotica;1-12;0-24;Strandfelsen;200
+Fliege;1-12;0-24;Muell, verrottete Ruebe;60
+Muecke;6-9;17-4;fliegt umher;130
+Floh;4-11;0-24;auf Nachbarn;70
+Schnecke;1-12;0-24 (bei Regen);Buesche, Steine;250
+Kugelassel;1-6&9-12;23-16;aus Steinen;250
+Hundertfuessler;9-12&1-6;16-23;aus Steinen;300
+Spinne;1-12;19-8;Baeume schuetteln;600
+Vogelspinne;11-12&1-4;19-4;Boden;8000
+Skorpion;5-10;19-4;Boden;8000
